@@ -1,1 +1,3 @@
-"# toy-fullstack-app" 
+# toy-fullstack-app
+
+FastAPI, React, Postgres
